@@ -3,20 +3,6 @@
 class parseCSV {
 
     /*
-    Class: parseCSV v0.4.3 beta
-    https://github.com/parsecsv/parsecsv-for-php
-
-    Fully conforms to the specifications lined out on wikipedia:
-    - http://en.wikipedia.org/wiki/Comma-separated_values
-
-    Based on the concept of Ming Hong Ng's CsvFileParser class:
-    - http://minghong.blogspot.com/2006/07/csv-parser-for-php.html
-
-
-    (The MIT license)
-
-    Copyright (c) 2014 Jim Myhrberg.
-
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
     in the Software without restriction, including without limitation the rights
