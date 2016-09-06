@@ -1,6 +1,6 @@
 {
     "name": "optimum7com/php-parsecsv",
-    "description": "CSV data parser for PHP",
+    "description": "CSV data parser for PHP for OPT7",
     "license": "MIT",
     "authors": [
         {
