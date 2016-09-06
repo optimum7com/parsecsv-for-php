@@ -1,4 +1,4 @@
-<?php namespace XEngine
+<?php namespace XEngine;
 
 class parseCSV {
 
